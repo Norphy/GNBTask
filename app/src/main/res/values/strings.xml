@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GNBTask</string>
+
+    <!-- MainActivity title name -->
+    <string name="sights_of_egypt_title">Sights of Egypt</string>
+
+    <string name="details_activity_title">Details</string>
+
+    <string name="explore_title">Explore</string>
+
+    <!-- Title for description in DetailsActivity -->
+    <string name="description_title">Description</string>
+
+    <!-- No Internet connection and no cached data -->
+    <string name="no_internet_connection">No Internet Connection and No Cached Data Available.</string>
+</resources>
